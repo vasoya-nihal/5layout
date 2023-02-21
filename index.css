@@ -3,6 +3,15 @@
     padding: 0;
 }
 
+.whiteline1{
+    position: relative;
+    z-index: 1;
+    left: 2.1%;
+    top: 3%;
+    height: 5px;
+    background-color: white;
+    width: 96.3vw;
+}
 .orangebox{
     position: relative;
     top: 0;
@@ -101,7 +110,7 @@
     position: relative;
     left: 13%;
     margin-top: -6%;
-    font-size: 140px;
+    font-size: 10vw;
     
 }
 .busi span{
@@ -136,7 +145,7 @@ h4{
     top: 60vh   ;
     right: 0;
     background-color:#629d99b5;
-    height: 120vh;
+    height: 135vh;
     width: 50vw;
 }
 .list_itetam3 ul{
@@ -150,14 +159,24 @@ h4{
 
 .A span{
     position: relative;
-    
+    top: 300px;
     font-size: 120px;
     color: white;
-   /* margin-top: 262px; */
+    right: 13%;
   float: right;
 }
 
 .A p{
     position: relative;
-    /* margin-top: 800px; */
+    top: 500px;
+    right: -13%;
+   width: 75%;
+    
+    color: white;
+    text-align: justify;
 }
+/* .mainleft_text{
+    position: relative;
+    border-left: 5px solid white;
+   
+} */
