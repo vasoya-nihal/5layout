@@ -8,7 +8,7 @@
     top: 0;
     /* left: 3%; */
     background-color:#cf5c33d3;
-    height: 80vh;
+    height: 120vh;
     width: 60vw;
 
 }
@@ -41,12 +41,28 @@
 
 } */
 
-.righttext h4{
+/* .righttext h4{
     position: relative;
     top: 55px;
+    right: 0;
     color: white;
     font-size: 45px;
-    right: -45%;
+    
+    background-color: #f7560b9f;
+    border: 5px solid white;
+    writing-mode:vertical-rl;
+    text-orientation: upright;
+} */
+
+.righttext h2{
+   
+    position: relative;
+    top: 55px;
+    right: 0;
+    color: white;
+    font-size: 45px;
+    float: right;
+    margin-right: 12%;
     background-color: #f7560b9f;
     border: 5px solid white;
     writing-mode:vertical-rl;
@@ -102,4 +118,46 @@ h4{
     position: relative;
     top: -25px;
     left: 13%;
+}
+.list_iteam2 p{
+    font-size: 32px;
+    position: relative;
+   
+    left: 13%;
+    list-style: none;
+}
+.list_iteam2{
+    position: relative;
+    top: 133px;
+}
+
+.bluebox{
+    position: absolute;
+    top: 60vh   ;
+    right: 0;
+    background-color:#629d99b5;
+    height: 120vh;
+    width: 50vw;
+}
+.list_itetam3 ul{
+    position: relative;
+    top: 180px;
+    list-style: none;
+    color: white;
+    font-size: 20px;
+    left: 13%;
+}
+
+.A span{
+    position: relative;
+    
+    font-size: 120px;
+    color: white;
+   /* margin-top: 262px; */
+  float: right;
+}
+
+.A p{
+    position: relative;
+    /* margin-top: 800px; */
 }
