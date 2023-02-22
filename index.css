@@ -47,7 +47,6 @@
     left: 8%;
   margin-top: 552px;
   margin-left: 12px;
-
 } */
 
 /* .righttext h4{
@@ -171,7 +170,7 @@ h4{
     top: 500px;
     right: -13%;
    width: 75%;
-    
+    direction: rtl;
     color: white;
     text-align: justify;
 }
@@ -180,3 +179,47 @@ h4{
     border-left: 5px solid white;
    
 } */
+
+.lastlist ul{
+   
+    list-style: none;
+    display: inline-flex;
+    
+}
+
+.lastlist  li{
+
+position: relative;
+top: 76vh;
+left: 29vh;
+}
+.icon3{
+    margin: 20px;
+    
+}
+
+.web p{
+    margin-top: 73vh;
+    margin-left: 33vh;
+    color: white;
+    font-weight: 500;
+    font-size: 4vh;
+}
+
+.hr2 hr{
+    background-color: rgba(49, 46, 46, 0.553);
+    position: relative;
+    top: 550px;
+    left: 14vh;
+    width: 37vw;
+   padding: 2px;
+}
+
+.hr3 hr{
+    background-color: rgba(62, 157, 154, 0.837);
+    position: relative;
+    top: 525px;
+    left: 14vh;
+    width: 37vw;
+   padding: 2px;
+}
