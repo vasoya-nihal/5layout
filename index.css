@@ -16,7 +16,7 @@
     position: relative;
     top: 0;
     /* left: 3%; */
-    background-color:#cf5c33d3;
+    background-color:#d56f4cba;
     height: 120vh;
     width: 60vw;
 
@@ -108,7 +108,7 @@
 .busi p{
     position: relative;
     left: 13%;
-    margin-top: -6%;
+    margin-top: -102%;
     font-size: 10vw;
     
 }
@@ -143,7 +143,7 @@ h4{
     position: absolute;
     top: 60vh   ;
     right: 0;
-    background-color:#629d99b5;
+    background-color:#58aea9ab;
     height: 135vh;
     width: 50vw;
 }
@@ -184,6 +184,7 @@ h4{
    
     list-style: none;
     display: inline-flex;
+ margin-left: 205px;
     
 }
 
@@ -191,18 +192,24 @@ h4{
 
 position: relative;
 top: 76vh;
-left: 29vh;
+/* left: 29vh; */
+/* right: -71%; */
 }
 .icon3{
     margin: 20px;
+   
     
 }
 
 .web p{
-    margin-top: 73vh;
-    margin-left: 33vh;
+    /* margin-top: 73vh;
+   padding-left: 245px;
     color: white;
     font-weight: 500;
+    font-size: 4vh; */
+    position: relative;
+    margin-left: 253px;
+    margin-top: 72%;
     font-size: 4vh;
 }
 
@@ -222,4 +229,14 @@ left: 29vh;
     left: 14vh;
     width: 37vw;
    padding: 2px;
+}
+
+
+.whiteborder{
+    position: relative;
+    top: 110px;
+    left: 50px;
+    background-color: white;
+  height: 950px;
+    width: 5px;
 }
