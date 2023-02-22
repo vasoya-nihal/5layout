@@ -234,9 +234,9 @@ top: 76vh;
 
 .whiteborder{
     position: relative;
-    top: 110px;
+    top: 50px;
     left: 50px;
     background-color: white;
-  height: 850px;
+  height: 890px;
     width: 5px;
 }
