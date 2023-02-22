@@ -141,7 +141,7 @@ h4{
 
 .bluebox{
     position: absolute;
-    top: 60vh   ;
+    top: 60vh;
     right: 0;
     background-color:#58aea9ab;
     height: 135vh;
@@ -208,7 +208,8 @@ top: 76vh;
     font-weight: 500;
     font-size: 4vh; */
     position: relative;
-    margin-left: 253px;
+    text-align: center;
+    /* margin-left: 253px; */
     margin-top: 72%;
     font-size: 4vh;
 }
